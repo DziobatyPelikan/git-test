@@ -1,1 +1,5 @@
 workspace.code-workspace
+folder/
+*der/
+*.php
+[bB]in/
